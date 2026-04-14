@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media.tenor.com/bP0Tww7LQJcAAAAj/usagi.gif",    // 0 normal
-    "https://media1.tenor.com/m/BCTaZCiXifQAAAAd/toast-usagi.gif",  // 1 confused
-    "https://media.tenor.com/0YPyGn3vCDMAAAAj/537.gif,             // 2 pleading
-    "https://media.tenor.com/0YPyGn3vCDMAAAAj/537.gif",             // 3 sad
-    "https://media1.tenor.com/m/OLA8qlpbFvMAAAAC/chiikawa-usagi-cry.gif",       // 4 sadder
-    "https://media1.tenor.com/m/ff0iUIePpKIAAAAd/usagi-usagi-crying.gif",             // 5 devastated
-    "https://media1.tenor.com/m/ff0iUIePpKIAAAAd/usagi-usagi-crying.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/Do4A36hzoHQAAAAd/usagi-chiikawa.gif"  // 7 crying runaway
+    "https://media.tenor.com/bP0Tww7LQJcAAAAj/usagi.gif",
+    "https://media1.tenor.com/m/BCTaZCiXifQAAAAd/toast-usagi.gif",
+    "https://media.tenor.com/0YPyGn3vCDMAAAAj/537.gif",  //
+    "https://media.tenor.com/0YPyGn3vCDMAAAAj/537.gif",
+    "https://media1.tenor.com/m/OLA8qlpbFvMAAAAC/chiikawa-usagi-cry.gif",
+    "https://media1.tenor.com/m/ff0iUIePpKIAAAAd/usagi-usagi-crying.gif",
+    "https://media1.tenor.com/m/ff0iUIePpKIAAAAd/usagi-usagi-crying.gif",
+    "https://media1.tenor.com/m/Do4A36hzoHQAAAAd/usagi-chiikawa.gif"
 ]
 
 const noMessages = [

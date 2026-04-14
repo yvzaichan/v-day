@@ -1,7 +1,7 @@
 const gifStages = [
     "https://media.tenor.com/bP0Tww7LQJcAAAAj/usagi.gif",
     "https://media1.tenor.com/m/BCTaZCiXifQAAAAd/toast-usagi.gif",
-    "https://media.tenor.com/0YPyGn3vCDMAAAAj/537.gif",  // 
+    "https://media.tenor.com/0YPyGn3vCDMAAAAj/537.gif",
     "https://media.tenor.com/0YPyGn3vCDMAAAAj/537.gif",
     "https://media1.tenor.com/m/OLA8qlpbFvMAAAAC/chiikawa-usagi-cry.gif",
     "https://media1.tenor.com/m/ff0iUIePpKIAAAAd/usagi-usagi-crying.gif",
